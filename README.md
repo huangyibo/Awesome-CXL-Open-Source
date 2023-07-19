@@ -12,6 +12,11 @@ A curated list of open-source projects that help leverage CXL technology:
 
 ## Disaggregation
 
+- **Direct Access, High-Performance Memory Disaggregation with DIRECTCXL (ATC 2022)** [https://www.usenix.org/system/files/atc22-gouk.pdf](https://www.usenix.org/system/files/atc22-gouk.pdf)
+- **An ultra-low latency and compatible PCIe interconnect for rack-scale communication (CoNEXT 2022 Best Paper Award)**
+  - [https://dl.acm.org/doi/10.1145/3555050.3569128](https://dl.acm.org/doi/10.1145/3555050.3569128)
+  - Source code: [https://github.com/NTSocks/ntsocks](https://github.com/NTSocks/ntsocks)
+
 ## Communication Frameworks and Common Libraries
 
 ## Machine Learning 
