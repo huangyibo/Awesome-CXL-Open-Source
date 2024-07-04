@@ -10,6 +10,10 @@ A curated list of open-source projects that help leverage CXL technology:
 - [Beyond CXL Projects](#beyond-cxl-projects)
 - [Other PCIe Interonnects](#other-pcie-interconnects)
 
+## Hardware && Architecture
+
+- **Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices** [https://tianyin.github.io/pub/cxl-mem.pdf](https://tianyin.github.io/pub/cxl-mem.pdf)
+
 ## Disaggregation
 
 - **Direct Access, High-Performance Memory Disaggregation with DIRECTCXL (ATC 2022)** [https://www.usenix.org/system/files/atc22-gouk.pdf](https://www.usenix.org/system/files/atc22-gouk.pdf)
