@@ -22,6 +22,8 @@ A curated list of open-source projects that help leverage CXL technology:
 - **An ultra-low latency and compatible PCIe interconnect for rack-scale communication (CoNEXT 2022 Best Paper Award)**
   - [https://dl.acm.org/doi/10.1145/3555050.3569128](https://dl.acm.org/doi/10.1145/3555050.3569128)
   - Source code: [https://github.com/NTSocks/ntsocks](https://github.com/NTSocks/ntsocks)
+- **Partial Failure Resilient Memory Management System for (CXL-based) Distributed Shared Memory (SOSP23)** [https://dl.acm.org/doi/abs/10.1145/3600006.3613135](https://dl.acm.org/doi/abs/10.1145/3600006.3613135)
+- **Cxl memory as persistent memory for disaggregated hpc: A practical approach (SC23)** [https://dl.acm.org/doi/pdf/10.1145/3624062.3624175](https://dl.acm.org/doi/pdf/10.1145/3624062.3624175)
 
 ## Communication Frameworks and Common Libraries
 
