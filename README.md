@@ -12,9 +12,9 @@ A curated list of open-source projects that help leverage CXL technology:
 
 ## Hardware && Architecture && Networking
 
-- **Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices** [https://tianyin.github.io/pub/cxl-mem.pdf](https://tianyin.github.io/pub/cxl-mem.pdf)
-- **Fabric-Centric Computing** [https://pages.cs.wisc.edu/~mgliu/papers/fcc-hotos23.pdf](https://pages.cs.wisc.edu/~mgliu/papers/fcc-hotos23.pdf)
-- **Understanding Routable PCIe Performance for Composable Infrastructures** [https://www.usenix.org/system/files/nsdi24-hou.pdf](https://www.usenix.org/system/files/nsdi24-hou.pdf)
+- **Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices (MICRO24)** [https://tianyin.github.io/pub/cxl-mem.pdf](https://tianyin.github.io/pub/cxl-mem.pdf)
+- **Fabric-Centric Computing (HotOS23)** [https://pages.cs.wisc.edu/~mgliu/papers/fcc-hotos23.pdf](https://pages.cs.wisc.edu/~mgliu/papers/fcc-hotos23.pdf)
+- **Understanding Routable PCIe Performance for Composable Infrastructures (NSDI24)** [https://www.usenix.org/system/files/nsdi24-hou.pdf](https://www.usenix.org/system/files/nsdi24-hou.pdf)
 
 ## Disaggregation
 
