@@ -33,4 +33,7 @@ A curated list of open-source projects that help leverage CXL technology:
 
 ## Beyond CXL Projects
 
+## Blogs on CXL
+
+- [Compute Express Link (CXL): All you need to know](https://www.rambus.com/blogs/compute-express-link/)
 
