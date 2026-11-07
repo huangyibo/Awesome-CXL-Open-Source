@@ -1,7 +1,22 @@
 # Awesome CXL Papers and Open-Source Artifacts
  *Hope that you'd be happy to add a star if you think this list is helpful!*
 
-A curated list of open-source projects that help leverage CXL technology:
+## Overview
+
+- [Hardware, Architecture, and Characterization](#hardware-architecture-and-characterization)
+- [Memory Pooling, Disaggregation, and Virtualization](#memory-pooling-disaggregation-and-virtualization)
+- [Tiered-Memory Management and Page Migration](#tiered-memory-management-and-page-migration)
+- [Communication Frameworks, Shared Memory, and Common Libraries](#communication-frameworks-shared-memory-and-common-libraries)
+- [Machine Learning, Recommendation, and Near-Memory Processing](#machine-learning-recommendation-and-near-memory-processing)
+- [Databases, Transactions, and Key-Value Stores](#databases-transactions-and-key-value-stores)
+- [Storage, Shared Logs, and CXL SSDs](#storage-shared-logs-and-cxl-ssds)
+- [Coherence, Programming Models, and Verification](#coherence-programming-models-and-verification)
+- [Security, Reliability, and Failure Recovery](#security-reliability-and-failure-recovery)
+- [Simulation and Emulation Infrastructure](#simulation-and-emulation-infrastructure)
+- [Supplementary Papers from Other Venues and Workshops](#supplementary-papers-from-other-venues-and-workshops)
+- [Related PCIe Interconnect Work](#related-pcie-interconnect-work)
+- [Blogs on CXL](#blogs-on-cxl)
+
 
 ## Hardware, Architecture, and Characterization
 
